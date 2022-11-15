@@ -2,7 +2,7 @@
 
 Supporting data for our EMNLP 2022 paper:
 
-[Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations]()
+[Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations](https://arxiv.org/abs/2211.07517)
 
 [Swarnadeep Saha](https://swarnahub.github.io/), [Peter Hase](https://peterbhase.github.io/), [Nazneen Rajani](https://www.nazneenrajani.com/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 
